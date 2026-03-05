@@ -12,4 +12,8 @@ Se creó la clase Usuario con:
 - Métodos getters para obtener los valores.
 - Métodos setters para modificar los valores.
 
-
+## Instrucciones de ejecución
+1. Abrir una terminal dentro de la carpeta `practica-1`.
+2. Ejecutar el siguiente comando para iniciar el servidor integrado de PHP:
+   php -S localhost:8000
+3. Abrir el navegador y acceder a: http://localhost:8000/index.php
