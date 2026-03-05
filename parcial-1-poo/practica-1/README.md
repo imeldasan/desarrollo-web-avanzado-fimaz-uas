@@ -12,7 +12,4 @@ Se creó la clase Usuario con:
 - Métodos getters para obtener los valores.
 - Métodos setters para modificar los valores.
 
-## Instrucciones de ejecución
-1. Colocar la carpeta en htdocs (si usas XAMPP).
-2. Abrir el navegador.
-3. Ir a:
+
