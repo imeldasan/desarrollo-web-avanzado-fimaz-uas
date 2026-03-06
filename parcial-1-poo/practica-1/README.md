@@ -17,3 +17,6 @@ Se creó la clase Usuario con:
 2. Ejecutar el siguiente comando para iniciar el servidor integrado de PHP:
    php -S localhost:8000
 3. Abrir el navegador y acceder a: http://localhost:8000/index.php
+
+## link del video de prueba
+https://youtu.be/6Mz1u9jCdJk
